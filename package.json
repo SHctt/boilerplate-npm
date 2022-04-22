@@ -3,6 +3,7 @@
 	"author": "testgary",
 	"description": "npm testing",
 	"keywords": ["freecodecamp", "eed", "22s"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
