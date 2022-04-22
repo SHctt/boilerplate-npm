@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "testgary",
 	"description": "npm testing",
-	"keywords": ["comp", "eed", "22s"],
+	"keywords": ["freecodecamp", "eed", "22s"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
